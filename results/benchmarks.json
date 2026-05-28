@@ -1,0 +1,31 @@
+{
+  "query_1": {
+    "wf_ms": 807.87,
+    "cte_ms": 786.0,
+    "index_speedup": 1.07
+  },
+  "query_2": {
+    "wf_ms": 1304.86,
+    "cte_ms": 39145.8,
+    "index_speedup": 1.11
+  },
+  "query_3": {
+    "wf_ms": 2098.32,
+    "cte_ms": 1329.02,
+    "index_speedup": 1.05
+  },
+  "query_4": {
+    "wf_ms": 902.51,
+    "cte_ms": 489.43,
+    "index_speedup": 1.1
+  },
+  "query_5": {
+    "wf_ms": 1737.61,
+    "cte_ms": 2316.79,
+    "index_speedup": 1.2
+  },
+  "pgbench_results": {
+    "wf_tps": 7.61,
+    "cte_tps": 7.58
+  }
+}
